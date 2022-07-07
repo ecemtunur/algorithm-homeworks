@@ -5,7 +5,7 @@ namespace _2019510069_muzaffer_sevili
     class Program
     {
         static void Main(string[] args)
-        {
+        { // ecme
             double number_x;  //variable of value of x
             do
             {
