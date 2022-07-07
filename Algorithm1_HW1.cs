@@ -3,7 +3,7 @@
 namespace _2019510069_muzaffer_sevili
 {
     class Program
-    {
+    { //ecemm
         static void Main(string[] args)
         {
             double number_x;  //variable of value of x
